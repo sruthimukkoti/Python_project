@@ -1,0 +1,18 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <value>
+          <list size="5">
+            <item index="0" class="java.lang.String" itemvalue="crlat-ob-client" />
+            <item index="1" class="java.lang.String" itemvalue="crlat-testrail-integration-client" />
+            <item index="2" class="java.lang.String" itemvalue="crlat-gvc-wallet-client" />
+            <item index="3" class="java.lang.String" itemvalue="crlat-siteserve-client" />
+            <item index="4" class="java.lang.String" itemvalue="crlat-cms-client" />
+          </list>
+        </value>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
